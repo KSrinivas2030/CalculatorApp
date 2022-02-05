@@ -156,10 +156,9 @@ class _calculatorappState extends State<calculatorapp> {
                 ],
               ),
 
-                ]
+  ],
               ),
-
-          ),
+        ),
 
       ),
     );
